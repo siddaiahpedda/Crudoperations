@@ -1,0 +1,149 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "fruits",
+      "freshness": "Refurbished",
+      "price": 2000,
+      "comment": "Not Fresh",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Tamoto",
+      "category": "vegetibles",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fresh Vegatables",
+      "date": "2022-03-12T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Oneplus TV",
+      "category": "electronics",
+      "freshness": "Brand New",
+      "price": 75000,
+      "comment": "New Product",
+      "date": "2022-03-15T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Apple",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 500,
+      "comment": "Fresh fruit",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Orange",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 300,
+      "comment": "Fresh fruit",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "App",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 300,
+      "comment": "Fresh fruit",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "Aoooo",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 300,
+      "comment": "Fresh fruit",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "mango",
+      "category": "fruits",
+      "freshness": "Second Hand",
+      "price": 300,
+      "comment": "Fresh fruit",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "Apple2",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 300,
+      "comment": "Fresh fruit",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "Apple",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fresh fruit",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 14
+    },
+    {
+      "productName": "Lenovo Laptop",
+      "category": "electronics",
+      "freshness": "Brand New",
+      "price": 150000,
+      "comment": "New Laptop",
+      "date": "2022-03-14T18:30:00.000Z",
+      "id": 15
+    },
+    {
+      "productName": "Grapes",
+      "category": "fruits",
+      "freshness": "Second Hand",
+      "price": 300,
+      "comment": "Not Fresh",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 16
+    },
+    {
+      "productName": "Mango",
+      "category": "fruits",
+      "freshness": "Second Hand",
+      "price": 300,
+      "comment": "Fresh",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 17
+    },
+    {
+      "productName": "Mango",
+      "category": "fruits",
+      "freshness": "Refurbished",
+      "price": 300,
+      "comment": "Not Fresh",
+      "date": "2022-03-13T18:30:00.000Z",
+      "id": 18
+    },
+    {
+      "productName": "Onians",
+      "category": "vegetibles",
+      "freshness": "Brand New",
+      "price": 20000,
+      "comment": "Too much cost",
+      "date": "2022-03-29T18:30:00.000Z",
+      "id": 19
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
